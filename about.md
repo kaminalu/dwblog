@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This blog was created for Dr. Karl Stolley's Fall, 2016 COM 201 Digital Writing course at the Illinois Institute of Techonology. It is solely intended for the purpose of publishing assignments completed for this course, and is in no way a limitation of the work I have produced throughout my educational and professional career.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Please visit my professional website, [AmyKamin.com](http://www.amykamin.com), for access to more of my stuff.
