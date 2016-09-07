@@ -17,7 +17,7 @@ title: Digital Writing Blog
 email: akamin@hawk.iit.edu
 description: > # this means to ignore newlines until "baseurl:"
   This blog is dedicated to work done for Professor Karl Stolley's COM 201 Digital Writing course - Fall 2016.
-baseurl: "" # the subpath of your site, e.g. /dwblog
+baseurl: "/dwblog" # the subpath of your site, e.g. /dwblog
 url: "http://www.amykamin.com" # the base hostname & protocol for your site
 github_username:  kaminalu
 
