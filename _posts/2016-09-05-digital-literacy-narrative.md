@@ -6,7 +6,7 @@ title: Digital Literacy Narrative
 
 In 1998, when I was 13 or 14 years old, I created my first email address. The handle I used was so ridiculous that I dare not even mention it to this day. However, the host I used, gURL.com also allowed me to create my own website using their interface  It was pretty limited to HTML markup and I started to learn the basics of the new language in an effort to build my very own webpage for the internet. To me, this was the coolest thing in the world, and I happily gave out my web address to all of my friends. At the time, it was nothing more than what we consider these days a “blog,” but it was my own little space on the web.  (NEED TO FLESH THIS OUT)
 
-(PHOTOS)
+![alt text](/images/gURL_Hompage_2000.PNG "gURL Homepage in 2000")
 
 Now, as an adult, I’m am relearning what it feels like to write for the internet and build a space for myself among the billions of web pages that exist. My latest attempt has me using Jekyll, a static site generator that will allow me to build a blog using only the simplest of markdown text. While HTML still has immense usefulness (I built my professional website using it with CSS last semester), markdown with Jekyll is faster and more intuitive when creating a simple layout like a blog.
 
