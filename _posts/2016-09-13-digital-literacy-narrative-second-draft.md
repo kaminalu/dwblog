@@ -6,7 +6,7 @@ title: Digital Literacy Narrative - Second Draft
 
 In 1998, when I was 13 or 14 years old, I created my first email address: goddessaphrodite84@gURL.com. Yes, probably the most ridiculous handle anyone has ever heard (I can hear laughing through time and space), but I was barely a teenager and my friends and I were obsessed with boys. Embarrassingly, we would also frequent Yahoo! chatrooms looking for boyfriends overseas. One time I became penpals with a teenage boy from Liverpool and I swear I spent days thinking of ways I could insert uniquely American words and spellings into emailed conversations. For example, elevators instead of lifts and tires instead of tyres. Such. A. Dork.
 
-![alt text] (/dwblog/images/amy1998-2.jpg "Photo of myself circa 1998")
+![alt text](/dwblog/images/amy1998-2.jpg "Photo of myself circa 1998")
 
 Anyway, this was way before the internet was used for everyday purposes including communication or as a reliable information source, and even my parents did not have their own email accounts.  It was a bit like installing Snapchat today: most parents kind of knew what the internet was, but not really how to use it.
 
