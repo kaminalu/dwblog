@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2016-09-05 17:14:45 -0500
-title: Digital Literacy Narrative
+title: Digital Literacy Narrative - First Draft
 ---
 
 In 1998, when I was 13 or 14 years old, I created my first email address. The handle I used was so ridiculous that I dare not even mention it to this day. However, the host I used, gURL.com also allowed me to create my own website using their interface. It was pretty limited to HTML markup and I started to learn the basics of the new language in an effort to build my very own webpage for the internet. To me, this was the coolest thing in the world, and I happily gave out my web address to all of my friends. At the time, it was nothing more than what we consider these days a “blog,” but it was my own little space on the web.  (NEED TO FLESH THIS OUT)
