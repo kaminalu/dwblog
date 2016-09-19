@@ -66,7 +66,7 @@ internet.
 The HTML knowledge was something else that was lost to time. I
 remember learning the importance of tags and formatting as I switched
 back and forth from the coding interface to the output preview,
-watching my pages come to life. Tags like <b> and <i> were used
+watching my pages come to life. Tags like \<b> and \<i> were used
 extensively as well as some tags pointing to other URLs, but honestly,
 I don't recall much beyond that. gURL.com offered as a resource some
 templates, tutorials, and today what we would call "spec" on HTML
