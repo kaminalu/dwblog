@@ -6,7 +6,7 @@ title: Reflective Social Presence - Part I
 
 Social media is the worst.  There, I said it.  I absolutely loathe the shallowness of connection, the fake front, the meaningless convention, and everything in between.  I do not have a Facebook or Twitter account, and the besides the (mostly defunct) MySpace and Google+, the last profile I updated was on LinkedIn, a place where I only feel depressed that I haven’t really done anything with my professional life yet.  Other than that, there is only one “social” app I use daily, which I will describe in a moment.
 
-Ultimately, however, when tasked with an assignment to join and blog about a new social media platform in contrast to one I already use, I was a bit frustrated, anxious, and generally unhappy.  I did not want to place myself further into the realm of those pathetically desperate for attention.  Yes, it would be a challenge, for sure, but not one I would enjoy taking on.
+Therefore, when tasked with an assignment to join and blog about a new social media platform in contrast to one I already use, I was a bit frustrated, anxious, and generally unhappy.  I did not want to place myself further into the realm of those pathetically desperate for attention.  Yes, it would be a challenge, for sure, but not one I would enjoy taking on.
 
 It had to be done, and so let me begin by saying: I'm a visual person.  I love to learn by watching, and over the years I’ve learned that I respond best to visual stimuli.  I like art, television, theater, and film.  I like open expanses and intricate details.  I like pattern and style, trompe l'oeil and abstraction.  Visual cues challenge me and help me to develop ponderous thoughts, thunderous rage, and uncontrollable happiness. 
 
