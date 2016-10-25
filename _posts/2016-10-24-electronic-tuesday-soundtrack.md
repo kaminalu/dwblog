@@ -40,7 +40,7 @@ My heart: “Trust me.”
 
 ### 7. New Kicks - Le Tigre
 (This Island | 2004)
-Once I marched against the Iraq War.  Once I fought and campaigned for Hope.  A fire somewhere burns within me.
+Once I marched against the Iraq War.  Once I fought and campaigned for Hope.  A fire somewhere burns.
 
 ### 8. Birdie Brain - The Fiery Furnaces
 (Blueberry Boat | 2004)
@@ -56,7 +56,7 @@ My late teenage anthem.  My uptempo downer personality.
 
 ### 11. Serpentine - Chris Bathgate
 (A Cork Tale Wake | 2006)
-A friend of a friend of an ex-boyfriend pushing words through his teeth. I can hear my own sad struggles in his sounds.
+A friend of a friend of an ex-boyfriend pushing words through his teeth. I can hear my own sad struggles in this.
 
 ### 12. Blue Chicago Moon - Songs: Ohia
 (Didn’t It Rain | 2002)
