@@ -64,7 +64,7 @@ When I was 19 years old, my family hospitalized me for severe depression. Listen
 
 ### 13. (I Can’t Get No) Satisfaction - Cat Power
 (The Covers Record | 2000)
-<rant>A cover song is not supposed to sound exactly like the original, people. Take the idea and make it your own. Otherwise it’s just a sad derivative void of artistic merit.</rant>
+`<rant>`A cover song is not supposed to sound exactly like the original, people. Take the idea and make it your own. Otherwise it’s just a sad derivative void of artistic merit.`</rant>`
 
 ### 14. No Comprende - Low
 (Ones and Sixes | 2015)
