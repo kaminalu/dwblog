@@ -10,6 +10,8 @@ There are some songs in my life that bring back a person, a place, a time or eve
 
 [Click here for Spotify Playlist](https://open.spotify.com/user/kaminalu/playlist/1GWAHU8wc5uryqTr2pgZRW)
 
+![alt text](/dwblog/images/Chem.JPG "High School chemistry folder featuring my bestest friend")
+
 SONG - ARTIST 
 (ALBUM | YEAR)
 
@@ -24,6 +26,8 @@ I listened to this song on a jukebox in an empty bar on my 29th birthday.  It fe
 ### 3. Stand By Me - Ben E. King
 (Don’t Play That Song! | 1960)
 I will never feel more at home, than when I hear this song.
+
+![alt text](/dwblog/images/Scribbles1.JPG "Carry-all Notebook for Random Thoughts and Trivial Notions")
 
 ### 4. The Purple Bottle - Animal Collective
 (Feels | 2005)
@@ -41,6 +45,8 @@ My heart: “Trust me.”
 ### 7. New Kicks - Le Tigre
 (This Island | 2004)
 Once I marched against the Iraq War.  Once I fought and campaigned for Hope.  A fire somewhere burns.
+
+![alt text](/dwblog/images/Scribbles4.JPG "College Algebra Notebook Doodles")
 
 ### 8. Birdie Brain - The Fiery Furnaces
 (Blueberry Boat | 2004)
@@ -61,6 +67,8 @@ A friend of a friend of an ex-boyfriend pushing words through his teeth. I can h
 ### 12. Blue Chicago Moon - Songs: Ohia
 (Didn’t It Rain | 2002)
 When I was 19 years old, my family hospitalized me for severe depression. Listening to this album felt like a hug, like someone understood me.
+
+![alt text](/dwblog/images/Scribbles3.JPG "Anthropology Notebook Doodles")
 
 ### 13. (I Can’t Get No) Satisfaction - Cat Power
 (The Covers Record | 2000)
