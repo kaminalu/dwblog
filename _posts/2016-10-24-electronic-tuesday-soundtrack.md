@@ -8,7 +8,7 @@ Music has a very special quality. Like other sources of sensory information, a c
 
 There are some songs in my life that bring back a person, a place, a time or even a feeling with such perfect clarity, a shiver runs across my body or my eyes well up with tears.  These are some of those songs.
 
-[Click here for Spotify Playlist](href: https://open.spotify.com/user/kaminalu/playlist/1GWAHU8wc5uryqTr2pgZRW)
+[Click here for Spotify Playlist](https://open.spotify.com/user/kaminalu/playlist/1GWAHU8wc5uryqTr2pgZRW)
 
 SONG - ARTIST 
 (ALBUM | YEAR)
