@@ -15,3 +15,6 @@ Digging around some more led me to Snapchat's Permissions page.  This one was in
 ![alt text](/dwblog/images/SnapchatPermissions1.png "Screenshot of Permissions")
 ![alt text](/dwblog/images/SnapchatPermissions2.png "Screenshot of Permissions")
 
+Another interesting page I came across was the Ad Preferences.  This was probably the most baffling of all, in that it is an auto-checked option that automatically "customizes the ads you see based on the information from our ad partners" and "if you turn off this feature, you'll still see ads based on your identity details and activity on Snapchat, but not based on information from ad partners."  
+
+What?  Are they saying that 
