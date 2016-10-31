@@ -17,6 +17,8 @@ Digging around some more led me to Snapchat's Permissions page.  This one was in
 
 Another interesting page I came across was the Ad Preferences.  This was probably the most baffling of all, in that it is an auto-checked option that automatically "customizes the ads you see based on the information from our ad partners" and "if you turn off this feature, you'll still see ads based on your identity details and activity on Snapchat, but not based on information from ad partners."  
 
+![alt text](/dwblog/images/SnapchatAdPreferences.png "Screenshot of Ad Preferences")
+
 So what is the point of this exactly?  We are going to see ads either way, so what is the difference on where they are coming from?  It's not like it means you'll see fewer ads, just fewer ads from Snapchats "partners" - whatever that means.  The ads are still going to be directed toward users based on their personal information and history - it's still invasive.  Just slightly different, I guess?  So weird.
 
 
