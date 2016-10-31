@@ -21,4 +21,6 @@ Another interesting page I came across was the Ad Preferences.  This was probabl
 
 So what is the point of this exactly?  We are going to see ads either way, so what is the difference on where they are coming from?  It's not like it means you'll see fewer ads, just fewer ads from Snapchats "partners" - whatever that means.  The ads are still going to be directed toward users based on their personal information and history - it's still invasive.  Just slightly different, I guess?  So weird.
 
+Needless to say, discovering these confounding features did not help to befriend me to Snapchat.  If anything, it has made me much more wary of using a social media service with such backwards and confusing policies.  It's almost as if they make you feel like you have control at the same time they take it all away from you.  Not very cool, in my opinion.
+
 
