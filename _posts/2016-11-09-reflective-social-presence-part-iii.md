@@ -12,8 +12,8 @@ To Chicago and many sports fans, this win meant so many things.  Whole generatio
 
 Throughout the rollercoaster that was the final Game 7, I saw many of my friends and family on Snapchat and Instagram posting reactions to the players and the plays.  But it wasn't until the end of the game, when the Cubs pulled a win out of extra innings, that my Snapchat and Instagram feeds started to blow up.  Shocked faces, champagne toasts, and revelrie in Wrigleyville were the themes of the night on most social media platforms it seemed.  It was a happy, beautiful thing.
 
-![alt text](/dwblog/images/CubsParade1.png "Screenshot sponsored content")
-![alt text](/dwblog/images/CubsParade2.png "Screenshot sponsored content")
+![alt text](/dwblog/images/CubsParade1.jpg "Screenshot sponsored content")
+![alt text](/dwblog/images/CubsParade2.jpg "Screenshot sponsored content")
 
 The next morning I began watching some of the "sponsored" stories on Snapchat.  And, despite my initial hesitation to watch anything sponsered, I actually enjoyed the experience.  Watching crowds of people celebrate the Cubs historic win felt magical, like we all belonged to an enormous family that had just reunited.  These people were brothers and sisters and it was all love.
 
