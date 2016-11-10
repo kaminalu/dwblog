@@ -28,10 +28,10 @@ This morning, I woke up to another world.  One where images still held no place 
 
 Now maybe this is a dramatic reaction to something that was almost completely out of my control.  I did my civic duty and voted.  That was all I could do.  But I still felt a supreme desire to express myself somewhere.  Why?
 
-I don't think it came from a desire to show off my feelings or to tell everyone on some level who I voted for.  It was certainly not that shallow, and I don't use social media for those reasons.  If I really give thought to why I posted these things, I beleive it came from a need for release.  
+I don't think it came from a desire to show off my feelings or to tell everyone on some level who I voted for.  It was certainly not that shallow, and I don't use social media for those reasons.  If I really give thought to why I posted these things, I believe it came from a need for release.  
 
 People have many opportunities to express themselves in their lives.  Some make art or music, some seek therapy and emotional bonds, others are violent or destructive.  There are an infinite number of ways to turn some real emotion into a vessel for catharsis, and this morning, I chose to post stuff on social media.  
 
 That is not to say that I'm done.  The indescribable rollercoaster of emotions of the last week beg to be explored and expressed further.  And while some continue to slowly rely on text and images posted to social media, I will likely try new avenues that can reach deeper into my disappointment and fear and turn these feelings into something positve, into a chance to grow as a human being.
 
-As for Snapchat, it has certainly served a purpose throughout these events.  Although my initial reacitons were frustration and an eagerness for this assignment to be over, I have found a new appreciation for what it can be: a massive community.  And I will likely continue to use it in some capacity into the future.  If no other reason than to stay connected to those in my life who are my anchors to joy: my own little community.
+As for Snapchat, it has certainly served a purpose throughout these events.  Although my initial reacitons were frustration and an eagerness for this assignment to be over, I have found a new appreciation for what it can be: a massive community.  And I will likely continue to use it in some capacity into the future.  If for no other reason than to stay connected to those in my life who are my anchors to joy: my own little community.
