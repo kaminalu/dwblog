@@ -23,6 +23,9 @@ Admittedly, I was not on text-based services like Facebook and Twitter, so there
 
 This morning, I woke up to another world.  One where images still held no place in the hearts of those I followed on Snapchat and Instagram.  Even my female muses were silent: no uplifting words or heartfelt condolences.  Maybe they were crying somewhere too.  Before I left the apartment to start my day, I decided to post my first "Story" on Snapchat.  It was going to be one that showed my helplessness, disappointment, disbelief, and fear.
 
+![alt text](/dwblog/images/SnapchatStory.jpg "Screenshot of my post-election, first story on Snapchat")
+![alt text](/dwblog/images/InstagramPost.jpg "Screenshot of my post-election Instagram post")
+
 Now maybe this is a dramatic reaction to something that was almost completely out of my control.  I did my civic duty and voted.  That was all I could do.  But I still felt a supreme desire to express myself somewhere.  Why?
 
 I don't think it came from a desire to show off my feelings or to tell everyone on some level who I voted for.  It was certainly not that shallow, and I don't use social media for those reasons.  If I really give thought to why I posted these things, I beleive it came from a need for release.  
