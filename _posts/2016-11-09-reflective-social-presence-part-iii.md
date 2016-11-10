@@ -15,7 +15,7 @@ Throughout the rollercoaster that was the final Game 7, I saw many of my friends
 ![alt text](/dwblog/images/CubsParade1.jpg "Screenshot sponsored content")
 ![alt text](/dwblog/images/CubsParade2.jpg "Screenshot sponsored content")
 
-The next morning I began watching some of the "sponsored" stories on Snapchat.  And, despite my initial hesitation to watch anything sponsered, I actually enjoyed the experience.  Watching crowds of people celebrate the Cubs historic win felt magical, like we all belonged to an enormous family that had just reunited.  These people were brothers and sisters and it was all love.
+The next morning I began watching some of the "sponsored" stories on Snapchat.  And, despite my initial hesitation to watch anything sponsored, I actually enjoyed the experience.  Watching crowds of people celebrate the Cubs historic win felt magical, like we all belonged to an enormous family that had just reunited.  These people were brothers and sisters and it was all love.
 
 Contrast this with yesterday's historic loss for the potential first female President of the United States, and words or pictures can no longer express the feelings.  True, there is no joy, but there is also no sadness, no heartbreak, no feeling at all that I know how to convey to the world.  I posted no photos and saw none from my friends and family.  It was a desert of content.  But why?
 
